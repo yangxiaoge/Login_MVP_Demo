@@ -1,7 +1,7 @@
 ## 自己写的 MVP Demo
 
 `效果图`:
-![Android_MVP.gif](http://naxiexiaojiyi1.qiniudn.com/Android_MVP.gif?e=1466393558&token=1JBeQi3vz7kUmQlsAf00FRntxudo01dbWsLMQT30:fsASBoYZPgXpfrHN68bolYx05rg=)
+![Android_MVP.gif](http://naxiexiaojiyi1.qiniudn.com/Android_MVP.gif?e=1466394305&token=1JBeQi3vz7kUmQlsAf00FRntxudo01dbWsLMQT30:OHpB-CM-8M70AaTnSJPTxMNboy4=)
 
 `MVP 流程图`:
 ![Android_MVP_structure.png](http://naxiexiaojiyi1.qiniudn.com/Android_MVP_structure.png?e=1466393671&token=1JBeQi3vz7kUmQlsAf00FRntxudo01dbWsLMQT30:F7JAW67ooBBizD8wWrGc_RSeeVY=)
